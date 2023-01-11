@@ -1,0 +1,9 @@
+.trash
+.cometml-runs
+__pycache__
+data/images
+vom/DATA
+**/runs/*/*/*
+!**/runs/train/**/weights
+
+

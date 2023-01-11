@@ -1,0 +1,6 @@
+train: ../datasets/robo/train/images
+val: ../datasets/robo/valid/images
+test: ../datasets/robo/test/images
+
+nc: 10
+names: ['bike', 'car', 'cross', 'gate', 'person', 'pole', 'sign_off', 'sign_on', 'train', 'truck']
