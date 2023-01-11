@@ -1,0 +1,7 @@
+path: ../datasets/robo
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 10
+names: ['bike', 'car', 'cross', 'gate', 'person', 'pole', 'sign_off', 'sign_on', 'train', 'truck']
