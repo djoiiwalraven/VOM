@@ -1,1 +1,2 @@
-# ASK FOR THESE WEIGHTS dd.walraven@gmail.com
+# ASK FOR WEIGHTS AT:
+ dd.walraven@gmail.com
